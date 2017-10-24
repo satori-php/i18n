@@ -8,7 +8,7 @@
 
 declare(strict_types=1);
 
-namespace Common\I18n;
+namespace Satori\I18n;
 
 /**
  * Extendable helper for i18n.
